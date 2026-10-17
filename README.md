@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Chanchal Kanwar 👋
 
-<!--
-**chanchal2608/chanchal2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+- 📚 Currently pursuing BCA
+- 💻 Interested in Java, Python, SQL, and Web Development
+- 🌱 Learning Data Structures and Algorithms
+- 🚀 Building projects to improve my programming skills
+- 🎯 Looking for opportunities to learn and grow through internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: Java, Python
+- Database: SQL
+- Web: HTML, CSS
+- Tools: Git, GitHub
+
+## Featured Project
+### Portfolio Website
+My personal portfolio website showcasing my skills and projects.
+
+🔗 [View Portfolio Repository](https://github.com/chanchal2608/portfolio-website)
+
+## Current Goals
+- Improve problem-solving skills
+- Build practical projects
+- Learn new technologies
+
+---
+Thanks for visiting my profile! 😊
